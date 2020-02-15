@@ -27,7 +27,8 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Audio
 PRODUCT_PACKAGES += \
-    audio.primary.lahaina
+    audio.primary.lahaina \
+    audio_amplifier.lahaina
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/audio_platform_info_yupikqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/audio_platform_info_yupikqrd.xml \
