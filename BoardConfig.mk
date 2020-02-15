@@ -8,6 +8,9 @@ DEVICE_PATH := device/xiaomi/lisa
 # Inherit from sm8350-common
 include device/xiaomi/sm8350-common/BoardConfigCommon.mk
 
+# Audio
+AUDIO_FEATURE_ENABLED_EXT_AMPLIFIER := true
+
 # Board
 TARGET_BOOTLOADER_BOARD_NAME := lisa
 
