@@ -18,6 +18,7 @@ TARGET_KERNEL_CONFIG += vendor/lisa_QGKI.config
 # Kernel modules
 BOOT_KERNEL_MODULES := \
     hwid.ko \
+    msm_drm.ko \
     goodix_core.ko \
     xiaomi_touch.ko
 
