@@ -627,6 +627,10 @@ vendor/firmware/goodix_gt9897t_cfg_k9d_csot.bin
 vendor/firmware/goodix_gt9897t_fw_k9d.bin
 vendor/firmware/goodix_gt9897t_fw_k9d_csot.bin
 
+# Thernal
+vendor/bin/mi_thermald
+vendor/etc/init/hw/init.mi_thermald.rc
+
 # Thermal config
 vendor/etc/thermal-4k.conf
 vendor/etc/thermal-8k.conf
