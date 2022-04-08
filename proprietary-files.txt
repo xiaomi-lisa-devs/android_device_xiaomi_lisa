@@ -54,6 +54,8 @@ vendor/lib/rfsa/adsp/libmialgo_rfs_cdsp_skel.so
 vendor/lib/rfsa/adsp/libmialgo_sfnr_cdsp_skel.so
 vendor/lib/rfsa/adsp/libmobilenet_dsp_frc.so
 vendor/lib/rfsa/adsp/libmobilenet_dsp_frc_networks.so
+vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so
+vendor/lib/rfsa/adsp/libscveT2T_skel.so
 vendor/lib/rfsa/adsp/libsnpe_dsp_v65_domains_v2_skel.so
 vendor/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so
 vendor/lib/rfsa/adsp/libsnpe_dsp_v68_domains_v3_skel.so
