@@ -158,7 +158,6 @@ vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so
 vendor/lib64/libAF.so
 vendor/lib64/libBlinkStub.so
 vendor/lib64/libFlickerDet.so
-vendor/lib64/libMegviiFacepp-0.5.2.so
 vendor/lib64/libSNPE.so
 vendor/lib64/lib_sr_models.so
 vendor/lib64/libaidenoiser.so
@@ -194,7 +193,6 @@ vendor/lib64/libhdrdynamicootf.so
 vendor/lib64/libhexagon_controller.so
 vendor/lib64/libipebpsstriping.so
 vendor/lib64/libipebpsstriping170.so
-vendor/lib64/libmegface.so
 vendor/lib64/libmiStereoFactoryRemapBasicLib.so
 vendor/lib64/libmiStereoFactoryRemapLib.so
 vendor/lib64/libmiStereoFactoryRemapLib_v2.so
@@ -417,7 +415,6 @@ vendor/etc/camera/eisoverridesettings.txt
 vendor/etc/camera/ellc.bin
 vendor/etc/camera/hdrcheckerparamsettings.yml
 vendor/etc/camera/intsense_config_optical_zoom_2sat.bin
-vendor/etc/camera/megviifacepp_0_5_2_model
 vendor/etc/camera/miai_hdr_config.yaml
 vendor/etc/camera/model_ai_dxo.dlc
 vendor/etc/camera/model_back.dlc
