@@ -29,9 +29,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/privapp-permissions-hotword.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-hotword.xml
 
-# NFC
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.boot.product.hardware.sku=nfc
-
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/lisa/lisa-vendor.mk)
