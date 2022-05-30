@@ -49,9 +49,9 @@ static const variant_info_t lisa_info = {
 };
 
 static const std::vector<variant_info_t> variants = {
-    lisa_global_info();
-    lisa_india_info();
-    lisa_info();
+    lisa_global_info,
+    lisa_india_info,
+    lisa_info,
 };
 
 void vendor_load_properties() {
