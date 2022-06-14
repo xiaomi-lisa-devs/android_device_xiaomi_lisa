@@ -127,7 +127,6 @@ vendor/lib64/com.qti.feature2.frameselect.so
 vendor/lib64/com.qti.feature2.fusion.so
 vendor/lib64/com.qti.feature2.generic.so
 vendor/lib64/com.qti.feature2.gs.kodiak.so
-vendor/lib64/com.qti.feature2.gs.sm8350.so
 vendor/lib64/com.qti.feature2.hdr.so
 vendor/lib64/com.qti.feature2.mcreprocrt.so
 vendor/lib64/com.qti.feature2.memcpy.so
