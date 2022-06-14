@@ -17,7 +17,7 @@ static const variant_info_t lisa_global_info = {
     .device = "lisa_global",
     .marketname = "Xiaomi 11 Lite 5G NE",
     .model = "2109119DG",
-    .build_fingerprint = "Xiaomi/lisa_global/lisa:11/RKQ1.210503.001/V12.5.14.0.RKOMIXM:user/release-keys",
+    .build_fingerprint = "Xiaomi/lisa_global/lisa:12/RKQ1.211001.001/V13.0.4.0.SKOMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -30,7 +30,7 @@ static const variant_info_t lisa_india_info = {
     .device = "lisa_in",
     .marketname = "Xiaomi 11 Lite NE 5G",
     .model = "2109119DI",
-    .build_fingerprint = "Xiaomi/lisa_in/lisa:11/RKQ1.210503.001/V12.5.5.0.RKOINXM:user/release-keys",
+    .build_fingerprint = "Xiaomi/lisa_in/lisa:12/RKQ1.211001.001/V13.0.4.0.SKOMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -43,7 +43,7 @@ static const variant_info_t lisa_info = {
     .device = "lisa",
     .marketname = "Mi 11 LE",
     .model = "2107119DC",
-    .build_fingerprint = "Xiaomi/lisa/lisa:11/RKQ1.210503.001/V12.5.9.0.RKOCNXM:user/release-keys",
+    .build_fingerprint = "Xiaomi/lisa/lisa:12/RKQ1.211001.001/V13.0.4.0.SKOMIXM:user/release-keys",
 
     .nfc = true,
 };
