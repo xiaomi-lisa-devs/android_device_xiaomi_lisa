@@ -30,7 +30,7 @@ static const variant_info_t lisa_india_info = {
 
     .brand = "Xiaomi",
     .device = "lisa_in",
-    .marketname = "Xiaomi 11 Lite NE 5G",
+    .marketname = "Xiaomi 11 Lite NE",
     .model = "2109119DI",
     .build_fingerprint = FINGERPRINT,
 
