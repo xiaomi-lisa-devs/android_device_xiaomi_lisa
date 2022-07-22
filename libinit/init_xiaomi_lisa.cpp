@@ -9,7 +9,7 @@
 
 #include "vendor_init.h"
 
-#define FINGERPRINT "Xiaomi/lisa_global/lisa:12/RKQ1.211001.001/V13.0.4.0.SKOMIXM:user/release-keys"
+#define FINGERPRINT "Xiaomi/lisa_global/lisa:12/RKQ1.211001.001/V13.0.5.0.SKOMIXM:user/release-keys"
 
 static const variant_info_t lisa_global_info = {
     .hwc_value = "GL",
