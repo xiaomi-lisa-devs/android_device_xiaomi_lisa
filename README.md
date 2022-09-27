@@ -23,4 +23,4 @@ Camera  | 64 MP main, 8 MP ultra-wide angle, 5 MP telemacro, 20 MP front
 
 ## Device picture
 
-![Xiaomi 11 Lite 5G NE](https://i.gadgets360cdn.com/large/xiaomi_11_lite_5g_ne_image_1631794471494.jpg?downsize=950:* "Xiaomi 11 Lite 5G NE")
+![Xiaomi 11 Lite 5G NE](https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-11-lite-5g-ne/specs_01-fix.png "Xiaomi 11 Lite 5G NE")
