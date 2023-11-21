@@ -80,7 +80,7 @@ static int amp_set_feedback(amplifier_device_t* device, void* adev, uint32_t snd
     tfa_dev->usecase_tx->in_snd_device = SND_DEVICE_IN_CAPTURE_VI_FEEDBACK;
     list_init(&tfa_dev->usecase_tx->device_list);
 
-    list_add_tail(&tfa_dev->adev->usecase_list, &tfa_dev->usecase_tx->list);
+    list_add_head(&tfa_dev->adev->usecase_list, &tfa_dev->usecase_tx->list);
     tfa_dev->enable_snd_device(tfa_dev->adev, tfa_dev->usecase_tx->in_snd_device);
     tfa_dev->enable_audio_route(tfa_dev->adev, tfa_dev->usecase_tx);
 
