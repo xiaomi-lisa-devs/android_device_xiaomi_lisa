@@ -18,7 +18,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := lisa
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := 2109119DG
-PRODUCT_NAME := lineage_lisa
+PRODUCT_NAME := matrixx_lisa
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
