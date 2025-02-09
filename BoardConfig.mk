@@ -9,6 +9,13 @@ DEVICE_PATH := device/xiaomi/lisa
 # Inherit from sm8350-common
 include device/xiaomi/sm8350-common/BoardConfigCommon.mk
 
+# Audio
+AUDIO_FEATURE_ENABLED_DLKM := true
+AUDIO_FEATURE_ENABLED_GEF_SUPPORT := true
+AUDIO_FEATURE_ENABLED_INSTANCE_ID := true
+AUDIO_FEATURE_ENABLED_SSR := true
+TARGET_PROVIDES_AUDIO_EXTNS := false
+
 # Board
 TARGET_BOOTLOADER_BOARD_NAME := lisa
 
